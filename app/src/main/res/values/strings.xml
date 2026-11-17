@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TerraView 3D</string>
+    <string name="search_world_placeholder">Search any city, landmark, or coordinates…</string>
+    <string name="clear_search">Clear search</string>
+    <string name="my_location">Fly to my location</string>
+    <string name="explore_atlas">World Atlas</string>
+    <string name="camera_controls">Camera Controls</string>
+    <string name="fly_to_3d">Fly to 3D</string>
+    <string name="orbit_360">Orbit 360°</string>
+    <string name="stop_orbit">Stop Orbit</string>
+    <string name="view_mode_3d">Photorealistic 3D</string>
+    <string name="view_mode_buildings">3D Buildings</string>
+    <string name="view_mode_street">Street View</string>
+    <string name="layer_hybrid">Labels On</string>
+    <string name="layer_satellite">Pure Satellite</string>
+    <string name="street_view_checking">Checking 360° Street View coverage…</string>
+    <string name="street_view_unavailable">Street View imagery is not available at this exact spot. Try switching back to Photorealistic 3D aerial view.</string>
+    <string name="maps_key_required_title">Google Maps API Key Required</string>
+    <string name="maps_key_required_body">Add your Google Maps Platform API key as MAPS_API_KEY in the Secrets panel in AI Studio (with Maps 3D SDK, Maps SDK for Android, Map Tiles API, and Geocoding API enabled) to stream live 3D locations around the world.</string>
+    <string name="close">Close</string>
+    <string name="tilt_label">Tilt</string>
+    <string name="heading_label">Heading</string>
+    <string name="range_label">Distance</string>
+    <string name="altitude_label">Elevation</string>
+    <string name="all_regions">All</string>
+    <string name="searching_places">Searching global coordinates…</string>
+    <string name="search_no_results">No matching destinations found. Try another city, wonder, or lat/lng.</string>
+    <string name="location_permission_denied">Location permission denied. You can still explore anywhere on Earth using search or the World Atlas.</string>
+    <string name="random_destination">Surprise Flight</string>
+    <string name="reset_north">Reset North</string>
+</resources>
